@@ -1,6 +1,5 @@
 # Desperately Seeking Code Review 
-
-Willing to bet, but also, and more importantly, if I can get an Apollo Client 3.0 expert, **I will donate $100 to a charity** of the choice.  All others are welcome.
+Looking for help from an Apollo Client 3.0 expert, **I will donate $100 to a charity** of the choice.  All others are welcome.
 
 # How to Help Specifically
 
